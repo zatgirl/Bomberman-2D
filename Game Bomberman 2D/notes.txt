@@ -1,0 +1,31 @@
+Bomberman 2D
+
+Objetivo: 
+Destruir obstáculos e inimigos em busca itens especiais para avançar os níveis. 
+
+Jogabilidade: 
+Setas direcionais = Movem o personagem
+Espaço = Lança a bomba de destruição
+
+Itens:
+Bomba: Explode em forma de "+" destruindo paredes ou inimigos.
+Baú: Pode conceder carta especial love potion e/ou key.
+Blocos: Ao serem destruídos podem conceder cartas especiais.
+Carta Especial Bomba: Aumenta em 1 a capacidade de bombas a serem plantadas simultâneamente.
+Carta Especial Speed: Aumenta a velocidade do jogador.
+Carta Especial Ranged: Aumenta em 1 bloco o tamanho de explosão da bomba.
+
+Dicas:
+[1] Ao início do jogo, o jogador receberá 3 love potions e cada uma terá a duração de 1min, ao zerar, o jogador perde.
+[2] Fique longe de inimigos, 1 love potion será perdida a cada ataque sofrido.
+[3] Cuidado ao destruir bombas pelo mapa, 1 love potion será perdida a cada auto-ataque sofrido.
+[4] Colete 3 keys pelo mapa para passar de fase.
+
+Telas:
+[1] Início = Play || Exit
+[2] Jogo = Apenas setas direcionais, tecla espaço e tecla ESC serão lidas. (ESC em qualquer momento do jogo irá retornar a tela de Início.
+[3] Game Over = Try Again || Exit
+
+
+REFERÊNCIAS:
+[Manipulação de Imagens] https://www.inf.pucrs.br/~pinho/CG-PPGCC/PraticaOpenGLImagens/ImageClass.html
