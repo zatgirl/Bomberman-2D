@@ -1,3 +1,0 @@
-D:/Downloads/cg/Demos/gl_1_canvasGlut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/Downloads/cg/Demos/gl_1_canvasGlut/cmake-build-debug/CMakeFiles/gl_1_canvasGlut.dir
-D:/Downloads/cg/Demos/gl_1_canvasGlut/cmake-build-debug/CMakeFiles/edit_cache.dir
