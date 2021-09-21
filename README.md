@@ -33,3 +33,22 @@ Espaço = Lança a bomba de destruição
 ## REFERÊNCIAS:<br/> 
 [1] [Introdução a Computação Gráfica] http://www-usr.inf.ufsm.br/~pozzer/ <br/> 
 [2] [Manipulação de Imagens] https://www.inf.pucrs.br/~pinho/CG-PPGCC/PraticaOpenGLImagens/ImageClass.html
+<br/> 
+<br/> 
+<br/> 
+## NOTA DE ALTERAÇÃO 21/09/2021<br/> 
+*collision system for character and enemies on walls and chests;<br/> 
+*reorganizing blocks_stones (still needs attention);<br/> 
+*rearranging blocks_bau (done).<br/> 
+<br/> 
+<br/> 
+### Next Step:<br/> 
+* * creation of the reward system;<br/>                  
+* * bomb activation and block destruction;<br/>          
+* * texture insertion;<br/>                             
+* * code scope redundancy analysis; <br/>                
+* * start screen creation, finish and adjustments. <br/> 
+<br/>
+<br/> 
+Desenvolvido por Mauren Walter D'Avila<br/> 
+Acadêmica do 7° Semestre de Engenharia de Computação
