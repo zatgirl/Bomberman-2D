@@ -8,7 +8,7 @@ Destruir obstáculos e inimigos em busca itens especiais para avançar os nívei
 
 ## Jogabilidade:<br/> 
 Setas direcionais = Movem o personagem<br/>
-Espaço = Lança a bomba de destruição
+Espaço/Enter = Lança a bomba de destruição
 
 ## Itens:<br/>
 * Bomba: Explode em forma de "+" destruindo paredes ou inimigos.<br/>
@@ -19,9 +19,9 @@ Espaço = Lança a bomba de destruição
 * Carta Especial Ranged: Aumenta em 1 bloco o tamanho de explosão da bomba.
 
 ## Dicas:<br/> 
-* Ao início do jogo, o jogador receberá 3 love potions e cada uma terá a duração de 1min, ao zerar, o jogador perde.<br/> 
-* Fique longe de inimigos, 1 love potion será perdida a cada ataque sofrido.<br/> 
-* Cuidado ao destruir bombas pelo mapa, 1 love potion será perdida a cada auto-ataque sofrido.<br/> 
+* Ao início do jogo, o jogador receberá 3 life potions e cada uma terá a duração de 1min, ao zerar, o jogador perde.<br/> 
+* Fique longe de inimigos, 1 life potion será perdida a cada ataque sofrido.<br/> 
+* Cuidado ao destruir bombas pelo mapa, 1 life potion será perdida a cada auto-ataque sofrido.<br/> 
 * Colete 3 keys pelo mapa para passar de fase.
 
 ## Telas:<br/> 
