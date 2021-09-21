@@ -221,9 +221,10 @@
 
 1632111310 d:\documentos\github\computer-graphics_study-introduction\game bomberman 2d\canvasglut\src\vector2.h
 
-1632185325 source:d:\documentos\github\computer-graphics_study-introduction\game bomberman 2d\canvasglut\src\main.cpp
+1632215369 source:d:\documentos\github\computer-graphics_study-introduction\game bomberman 2d\canvasglut\src\main.cpp
 	<GL/glut.h>
 	<GL/freeglut_ext.h>
+	<math.h>
 	<stdio.h>
 	<stdlib.h>
 	"gl_canvas2d.h"
