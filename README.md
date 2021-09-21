@@ -12,7 +12,7 @@ Espaço/Enter = Lança a bomba de destruição
 
 ## Itens:<br/>
 * Bomba: Explode em forma de "+" destruindo paredes ou inimigos.<br/>
-* Baú: Pode conceder carta especial love potion e/ou key.<br/>
+* Baú: Pode conceder carta especial live potion e/ou key.<br/>
 * Blocos: Ao serem destruídos podem conceder cartas especiais.<br/>
 * Carta Especial Bomba: Aumenta em 1 a capacidade de bombas a serem plantadas simultâneamente.<br/>
 * Carta Especial Speed: Aumenta a velocidade do jogador.<br/> 
