@@ -1,6 +1,3 @@
-# Computer-Graphics_Study-Introduction
-Repository for personal studies in computer graphics using C++ and C#.
-
 # Bomberman 2D [Jogo em construção]
 
 ## Objetivo:<br/>
